@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /rikks-cruises
+exclude: ['README.md']
